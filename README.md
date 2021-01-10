@@ -7,7 +7,7 @@
 
 [HungerMania](https://afternoon-brushlands-75563.herokuapp.com/) is a website where users can create and review restaurants. In order to review or create a restaurant, you must have an account.
 
-This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
+This project was created using **Node.js, Express, MongoDB, Mongooose and Bootstrap.** **Passport.js** was used to handle authentication. **Mapbox** was used to create and show maps and **Cloudinary** is used to store multimedia. **Mongo Atlas** is used as cloud database for storing all the info of restaurants, reviews and users. 
 
 This project is hosted online using heroku. Check it out => [hungermania](https://afternoon-brushlands-75563.herokuapp.com/)
 
