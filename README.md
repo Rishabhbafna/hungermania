@@ -1,20 +1,22 @@
 # HungerMania
 
-![Image 1](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/homePage.PNG)  
-![Image 2](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/showPage.PNG)
-![Image 3](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/clusterMap.PNG)  
+![homePage](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/homePage.PNG)  
+![showPage](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/showPage.PNG)
+![clusterMap](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/clusterMap.PNG)  
 
 
-HungerMania is a website where users can create and review restaurants. In order to review or create a restaurant, you must have an account.
+[HungerMania](https://afternoon-brushlands-75563.herokuapp.com/) is a website where users can create and review restaurants. In order to review or create a restaurant, you must have an account.
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
+
+This project is hosted online using heroku. Check it out => [hungermania](https://afternoon-brushlands-75563.herokuapp.com/)
 
 ## Features
 * Users can create, edit, and remove restaurants
 * Users can review restaurants, and edit or remove their review
 * User profiles have information (username and email), and they are the author of their restaurants only
 * See restaurants on a cluster map on main page
-* See location on map, reviews, and other info on show page 
+* See location on map, reviews, and other info on show page
 
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/)
